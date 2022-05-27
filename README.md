@@ -1,6 +1,5 @@
-# fake-news-detection
-
-Machine Learning Fake News Detection with Python
+# Data Science
+Machine Learning Project Fake News Detection with Python
 
 mengambil dataset dari website https://www.kaggle.com/code/therealsampat/fake-news-detection/data
 
